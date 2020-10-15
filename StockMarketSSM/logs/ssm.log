@@ -1,3 +1,6 @@
 [INFO][main][2019-11-10 21:45:02][testMain] - nihao
 #sql[ERROR][main][2019-11-10 21:46:06][testMain] - nihao
+#sql[INFO][main][2020-10-15 10:39:13][testMain] - aaa
+#sql[INFO][main][2020-10-15 10:39:35][testMain] - aaa{0}
+#sql[INFO][main][2020-10-15 10:39:47][testMain] - aaa{1}
 #sql

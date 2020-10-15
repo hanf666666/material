@@ -8,6 +8,7 @@ public class testMain {
      static Logger seflogger = LoggerFactory.getLogger(testMain.class);
     public static void main(String[] args) {
         seflogger.debug("nihao");
+        seflogger.info("aaa{1}","hanjing");
 
     }
 }
