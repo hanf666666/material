@@ -1,0 +1,61 @@
+{
+  "companyCode": "WESURE",
+  "requestData": {
+    "campaignCode": "HUAX10001",
+    "campaignDescription": "华夏非车名单测试",
+    "productCode": "PH01",
+    "productName": "护身福·成人意外险",
+    "tmClientList": [
+      {
+        "attachInfo": "{}",
+        "birthdate": "",
+        "businessType": 0,
+        "channelClass": "小程序",
+        "credentialNo": "",
+        "credentialType": "",
+        "extraServiceList": [],
+        "fakePhoneNo": "59000013318",
+        "gender": "male",
+        "hisAgentId": "",
+        "hisRemark": "",
+        "listRecId": "610886746681800609",
+        "name": "刘先生",
+        "phoneArea": "上海市-上海市",
+        "policyNo": "1defefb157544b9e928f0916e39c17f1",
+        "quoteTime": "20190813173520",
+        "status": 1,
+        "virtualphoneEffecTime": "20200413180534",
+        "virtualphoneExpireTime": "20201211180534",
+        "visitorId": "deDGV7-iDiV3H5g9OoAwmMF59f0zqwin",
+        "wsQuoteNo": "1defefb157544b9e928f0916e39c17f1"
+      },
+      {
+        "attachInfo": "{}",
+        "birthdate": "",
+        "businessType": 0,
+        "channelClass": "小程序",
+        "credentialNo": "",
+        "credentialType": "",
+        "extraServiceList": [],
+        "fakePhoneNo": "59000012406",
+        "gender": "male",
+        "hisAgentId": "",
+        "hisRemark": "",
+        "listRecId": "610886746681800610",
+        "name": "刘先生",
+        "phoneArea": "上海市-上海市",
+        "policyNo": "1defefb157544b9e928f0916e39c17f2",
+        "quoteTime": "20190813173520",
+        "status": 1,
+        "virtualphoneEffecTime": "20200413180534",
+        "virtualphoneExpireTime": "20201211180534",
+        "visitorId": "deDGV7-iDiV3H5g9OoAwmMF59f0zqwin",
+        "wsQuoteNo": "1defefb157544b9e928f0916e39c17f2"
+      }
+    ],
+    "wesureCount": 2
+  },
+  "requestId": "90fa1f9f-b35f-4656-bd43-2a8d4744a0c5",
+  "requestTime": "20200428171418374",
+  "requestType": "wesure.tmclient.pushinfo"
+}

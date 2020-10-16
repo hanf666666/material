@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+person:
+  age: 20
+  name: hanjing
