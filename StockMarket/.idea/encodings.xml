@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/StockMarket01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stockmarket02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stockmarket02/src/main/java/com/it/Controller/HttpClentPostTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stockmarket02/src/main/java/com/it/Controller/HttpClentPostTest2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stockmarket02/src/test/java/demo2/FenxiStockUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stockmarket02/src/test/java/demo2/stockUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stockmarket02/src/test/java/demo2/zhumain.java" charset="UTF-8" />
+  </component>
+</project>

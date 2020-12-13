@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.it.Controller.LoginController",
+      "sourceType": "com.it.Controller.LoginController"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.String",
+      "sourceType": "com.it.Controller.LoginController"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.it.Controller.LoginController"
+    }
+  ],
+  "hints": []
+}
